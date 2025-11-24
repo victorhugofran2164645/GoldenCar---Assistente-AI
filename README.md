@@ -72,7 +72,7 @@ Golden Car - Assistente AI
 - Linguagem: Python / JavaScript / Node (ajuste conforme seu projeto real)
 - Banco de Dados: Firebase
 - Frontend: React / HTML / Tailwind (ajuste conforme usar)
-- APIs: Tabela Fipe, serviços internos da GoldenCar (opcional)
+- APIs: Google e Firebase para conectar banco de dados
 
 
 ---
